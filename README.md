@@ -1,2 +1,2 @@
 # My-Notes
-Notes taken by me in different times on Different Language/technology
+Notes during learning period of different technologies/languages
